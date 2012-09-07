@@ -6,7 +6,7 @@
       show-paren-style 'parenthesis)
 (show-paren-mode 1)
 
-;;; This is the binary name of my scheme implementation
+;;; This is the name of my scheme implementation executable
 (setq scheme-program-name "scheme48")
 
 (setq inferior-lisp-program "/usr/bin/clisp")
