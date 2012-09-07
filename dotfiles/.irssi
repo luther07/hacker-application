@@ -1,4 +1,9 @@
 This is not my .irssi file.
-I use the irssi client for IRC and jabber.
-I primarily use irssi at work on a remote machine, not my personal machine.
-Therefore I can't provide my .irssi file.
+I use the irssi client for chatting on IRC and jabber servers.
+I primarily use irssi at work, running on a remote machine, not my personal machine.
+I ssh into a remote linux machine and run screen and irssi. With screen and irssi
+I remain logged into chat servers 24x7x365. So I stay connected to an IRC server
+that runs locally on the remote machine and I stay connected to our corporate 
+jabber server. All of my customizations are at work on that remote machine.
+My .irssi file mainly just contains config information about the servers and
+channels I use. It would contain passwords, which I shouldn't share.
